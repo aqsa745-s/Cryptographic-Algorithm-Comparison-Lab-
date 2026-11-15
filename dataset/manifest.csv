@@ -1,0 +1,9 @@
+dataset,type,size_bytes
+text_empty.txt,text,0
+text_1KB.txt,text,1024
+text_10KB.txt,text,10240
+text_100KB.txt,text,102400
+binary_empty.bin,binary,0
+binary_1KB.bin,binary,1024
+binary_10KB.bin,binary,10240
+binary_100KB.bin,binary,102400

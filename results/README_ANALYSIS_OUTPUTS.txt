@@ -1,0 +1,1 @@
+This folder contains original raw and summary benchmark CSVs, combined analysis tables, three comparison graphs, and the Results & Discussion Word document. See the project-level SUBMISSION_CHECKLIST.md before submitting; the original PDF is retained as a template with placeholders.

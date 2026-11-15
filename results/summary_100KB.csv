@@ -1,0 +1,4 @@
+dataset,algorithm,input_bytes,mode,key_bits,library,library_version,trials,package_bytes_median,encryption_median_ms,encryption_min_ms,encryption_max_ms,decryption_median_ms,decryption_min_ms,decryption_max_ms,encryption_setup_median_ms,decryption_setup_median_ms,all_correct,encryption_range_ms,decryption_range_ms
+text_100KB.txt,AES-256-GCM,102400,GCM,256,PyCryptodome,4.4.0,10,102428.0,0.17754999999999999,0.1546,0.5118,0.1483,0.1347,1.2452,0.17025,0.09734999999999999,True,0.3572000000000001,1.1105
+text_100KB.txt,ChaCha20-Poly1305,102400,Poly1305 AEAD,256,PyCryptodome,4.4.0,10,102428.0,0.23525000000000001,0.2289,0.4785,0.2271,0.2236,0.2619,0.0451,0.023850000000000003,True,0.2496,0.03830000000000003
+text_100KB.txt,DES-CBC (educational),102400,CBC,64,PyCryptodome,4.4.0,10,102416.0,8.42815,7.3182,10.0662,7.80535,6.2234,10.5236,0.0462,0.057800000000000004,True,2.748,4.3002

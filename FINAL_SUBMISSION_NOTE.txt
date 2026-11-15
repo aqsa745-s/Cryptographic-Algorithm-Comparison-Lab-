@@ -1,0 +1,28 @@
+ARTIFACT 5 — UPDATED SUBMISSION PACKAGE
+
+This package contains the project source, Streamlit app, report (PDF and editable DOCX),
+dataset, historical results, plots, architecture flowchart, automated tests, README,
+and the fresh evidence currently available from the student.
+
+Fresh local verification shared by the student:
+- `python -m pytest -q` -> 21 passed in 2.39s
+- Fresh app experiment: DES-CBC, AES-256-GCM and ChaCha20-Poly1305 selected; 10 trials;
+  raw trial records shown in the app; browser download prompts shown for summary/raw CSV.
+
+Evidence included:
+- evidence/01_fresh_experiment_app_and_downloads.png: screenshot supplied by the student.
+- evidence/02_test_run_transcript.txt: transcript of the terminal result shared in chat,
+  not a screenshot.
+
+TWO LAST FILE ACTIONS BEFORE HANDING IN:
+1. Copy the actual newly downloaded raw_results (6).csv and summary_results (6).csv
+   from the student's Downloads folder into this project's results/ folder. Rename them:
+   raw_results_fresh_2026-11-15.csv
+   summary_results_fresh_2026-11-15.csv
+   These CSV contents were not present in the uploaded ZIP, so they are not invented.
+2. If required, save a PowerShell screenshot showing `21 passed` into evidence/ as
+   02_test_results.png. The TXT transcript is not a screenshot.
+
+Also record a short demo if the instructor requires it. Do not claim the report's historical
+results are the same as the new local experiment. DES-CBC is included only for educational
+comparison; this is not a production security product.

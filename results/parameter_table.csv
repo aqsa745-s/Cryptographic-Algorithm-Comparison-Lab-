@@ -1,0 +1,4 @@
+Algorithm,Mode,Key length,IV/nonce,Authentication,Padding,Library
+DES-CBC (educational),CBC,64-bit representation (56 effective),8 bytes (IV),No,PKCS#7 padding,PyCryptodome
+AES-256-GCM,GCM,256,12 bytes (nonce),"Yes, 16-byte tag",None,PyCryptodome
+ChaCha20-Poly1305,Poly1305 AEAD,256,12 bytes (nonce),"Yes, 16-byte tag",None,PyCryptodome

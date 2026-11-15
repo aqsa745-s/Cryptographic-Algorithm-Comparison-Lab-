@@ -1,0 +1,8 @@
+Fresh local test run reported by the student in this conversation:
+
+PS C:\Users\Super\Downloads\Artifact5_Cryptography_Submission_Package (1)> python -m pytest -q
+.....................                                                    [100%]
+21 passed in 2.39s
+
+Note: This is a transcription of the terminal output shared in chat, not a screenshot.
+The original terminal screenshot should be added if the instructor requires image evidence.
