@@ -1,5 +1,5 @@
 # Cryptographic Algorithm Analysis and Comparison Lab
-**Artifact 5 — Introduction to Cryptography, BS Semester VII**
+
 
 A reproducible educational application comparing:
 - **DES-CBC** — historical/classroom comparison only; obsolete and insecure.
